@@ -46,6 +46,12 @@ Se existe algo novo pra aprender, pode ter certeza que eu já abri uma aba sobre
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
 ![REST API](https://img.shields.io/badge/REST_API-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+
+**Na fila pra aprender:**
+
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
 ![Jasmine](https://img.shields.io/badge/Jasmine-8A4182?style=for-the-badge&logo=jasmine&logoColor=white)
 
 ---
@@ -54,9 +60,9 @@ Se existe algo novo pra aprender, pode ter certeza que eu já abri uma aba sobre
 
 <div align="center">
 
-![Eduardo's GitHub stats](https://github-readme-stats.vercel.app/api?username=Eduardo-Bartellt-Casanova&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=61DAFB&icon_color=61DAFB)
+![Eduardo's GitHub stats](https://github-readme-stats.vercel.app/api?username=EduBartReal&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=61DAFB&icon_color=61DAFB)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Eduardo-Bartellt-Casanova&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=61DAFB)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=EduBartReal&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=61DAFB)
 
 </div>
 
@@ -70,11 +76,11 @@ Se existe algo novo pra aprender, pode ter certeza que eu já abri uma aba sobre
 ---
 
 <div align="center">
-  <img src="https://komarev.com/ghpvc/?username=Eduardo-Bartellt-Casanova&color=61DAFB&style=flat-square&label=Visitantes+do+perfil" />
+  <img src="https://komarev.com/ghpvc/?username=EduBartReal&color=61DAFB&style=flat-square&label=Visitantes+do+perfil" />
 </div>
 
 <div align="center">
 
-*"The world isn't perfect. But it's there for us, doing the best it can."* ✨
+*"In search of the ideal future."* ✨
 
 </div>
